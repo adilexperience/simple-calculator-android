@@ -2,5 +2,5 @@
 Simple Calculator for performing mathematical operations
 
 <center>
-    <img src="screenshot/app_screenshot.jpg" width="500" height="1000"  />
+    <img src="screenshot/app_screenshot.jpg" width="500" height="700" style="margin:auto" />
 </center>
